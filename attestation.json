@@ -1,0 +1,9 @@
+{
+  "pluginId": "neodex.calculatrice",
+  "repo": "NDesumeur/neodex-plugin-calculatrice-phone",
+  "version": "1.0.0",
+  "sha256": "32eb19bd4b63a10951853ab5442646a09a9b28393ea7a6b1c447be88c6e3c5cb",
+  "approvedAt": "2026-11-17T18:40:02.691Z",
+  "neobase": ">=4.0.0",
+  "signature": "C8vMDO2cQtVRgiD/rJWAktOjkyo0PLnvADCtd/RrC3mQBfU0S0ADpyDsEtZLncR/QBwiRAJ8GUTFy9XhzaJoBg=="
+}
